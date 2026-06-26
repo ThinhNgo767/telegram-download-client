@@ -1,6 +1,4 @@
-name = "telegram-bot-download"
-compatibility_date = "2026-06-026"
+name = "my-app"
+compatibility_date = "2026-06-26"
 
-[site]
-bucket = "./dist"
-
+pages_build_output_dir = "dist"
